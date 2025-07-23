@@ -39,7 +39,7 @@ This project focuses on classifying skin lesions using the **ConvNeXt-Tiny** dee
 
 ## 👨‍💻 Author
 
-**Megavarshan. A**  
+**[Megavarshan. A](https://www.linkedin.com/in/megavarshan/)**  
 Undergraduate Intern | AI Research  
 SRM University
 
