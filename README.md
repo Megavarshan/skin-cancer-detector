@@ -17,7 +17,6 @@ This project focuses on classifying skin lesions using the **ConvNeXt-Tiny** dee
 ## 📊 Dataset
 
 - **Name:** HAM10000 – Human Against Machine with 10000 training images
-- **Source:** [Kaggle](https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000)
 - **Classes:**
   - `nv`: Melanocytic nevi
   - `mel`: Melanoma
@@ -40,8 +39,7 @@ This project focuses on classifying skin lesions using the **ConvNeXt-Tiny** dee
 ## 👨‍💻 Author
 
 **[Megavarshan. A](https://www.linkedin.com/in/megavarshan/)**  
-Undergraduate Intern | AI Research  
-SRM University
-
+Undergraduate AI Researcher  
+SRM University, Kattankulathur
 ---
 
