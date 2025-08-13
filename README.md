@@ -7,7 +7,7 @@ This project focuses on classifying skin lesions using the **ConvNeXt-Tiny** dee
 ## 📌 Features
 
 - ✅ Skin lesion classification into **7 classes**
-- ✅ Model based on **ConvNeXt-Tiny** (pretrained via `timm`)
+- ✅ Model based on **ConvNeXt**
 - ✅ Integrated **explainability using Integrated Gradients**
 - ✅ Visualizations: heatmaps, confusion matrix
 - ✅ Evaluation with classification report (precision, recall, F1-score)
